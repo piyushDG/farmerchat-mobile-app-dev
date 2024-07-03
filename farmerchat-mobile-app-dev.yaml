@@ -60,3 +60,4 @@ spec:
               name: service-farmerchat-mobile-app-dev
               port:
                 number: 80
+
